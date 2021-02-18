@@ -58,6 +58,7 @@
       <file>alphabetic.bbx</file>
       <file>alphabetic.cbx</file>
       <file>biblatex.cfg</file>
+      <file>spanish.lbx</file>
       <file>english.lbx</file>
     </requires>
   </internal>

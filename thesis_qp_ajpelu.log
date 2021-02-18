@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.8)  18 FEB 2021 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.8)  18 FEB 2021 21:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -243,6 +243,15 @@ Package babel Info: \l@australian = using hyphenrules for english
 (babel)             (\language0) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for english
 (babel)             (\language0) on input line 108.
+)
+(/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count189
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
 )) (./cleanthesis.sty
 Package: cleanthesis 2020/06/17 v0.4.1 A clean LaTeX style for thesis documents
 
@@ -252,10 +261,10 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks18
-\XKV@tempa@toks=\toks19
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
 )
-\XKV@depth=\count189
+\XKV@depth=\count190
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -325,12 +334,12 @@ Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa)
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
-\MT@toks=\toks20
-\MT@count=\count190
+\MT@toks=\toks21
+\MT@count=\count191
 LaTeX Info: Redefining \textls on input line 788.
 \MT@outer@kern=\dimen140
 LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
-\MT@listname@count=\count191
+\MT@listname@count=\count192
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.
 def
@@ -371,7 +380,7 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen143
 \ar@mcellbox=\box49
 \extrarowheight=\dimen144
-\NC@list=\toks21
+\NC@list=\toks22
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box50
@@ -381,17 +390,17 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \TX@old@col=\dimen147
 \TX@target=\dimen148
 \TX@delta=\dimen149
-\TX@cols=\count192
-\TX@ftn=\toks22
+\TX@cols=\count193
+\TX@ftn=\toks23
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip67
 \enit@outerparindent=\dimen150
-\enit@toks=\toks23
+\enit@toks=\toks24
 \enit@inbox=\box51
-\enit@count@id=\count193
-\enitdp@description=\count194
+\enit@count@id=\count194
+\enitdp@description=\count195
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -399,24 +408,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count195
-\c@Blindtext=\count196
-\c@blind@countparstart=\count197
-\blind@countxx=\count198
-\blindtext@numBlindtext=\count199
-\blind@countyy=\count266
-\c@blindlist=\count267
-\c@blindlistlevel=\count268
-\c@blindlist@level=\count269
-\blind@listitem=\count270
-\c@blind@listcount=\count271
-\c@blind@levelcount=\count272
-\blind@mathformula=\count273
-\blind@Mathformula=\count274
-\c@blind@randomcount=\count275
-\c@blind@randommax=\count276
-\c@blind@pangramcount=\count277
-\c@blind@pangrammax=\count278
+\c@blindtext=\count196
+\c@Blindtext=\count197
+\c@blind@countparstart=\count198
+\blind@countxx=\count199
+\blindtext@numBlindtext=\count266
+\blind@countyy=\count267
+\c@blindlist=\count268
+\c@blindlistlevel=\count269
+\c@blindlist@level=\count270
+\blind@listitem=\count271
+\c@blind@listcount=\count272
+\c@blind@levelcount=\count273
+\blind@mathformula=\count274
+\blind@Mathformula=\count275
+\c@blind@randomcount=\count276
+\c@blind@randommax=\count277
+\c@blind@pangramcount=\count278
+\c@blind@pangrammax=\count279
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -461,8 +470,8 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen151
-\Hy@linkcounter=\count279
-\Hy@pagecounter=\count280
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
@@ -480,7 +489,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count281
+\Hy@SavedSpaceFactor=\count282
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
@@ -495,7 +504,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count282
+\c@Hy@tempcnt=\count283
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
@@ -511,7 +520,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count283
+\Fld@menulength=\count284
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
 Package hyperref Info: Hyper figures OFF on input line 6075.
@@ -528,9 +537,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count284
-\c@Item=\count285
-\c@Hfootnote=\count286
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -542,8 +551,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count287
-\c@bookmark@seq@number=\count288
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfileche
 ck.sty
@@ -559,15 +568,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip68
 ) (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count289
-\calc@Bcount=\count290
+\calc@Acount=\count290
+\calc@Bcount=\count291
 \calc@Adimen=\dimen155
 \calc@Bdimen=\dimen156
 \calc@Askip=\skip69
 \calc@Bskip=\skip70
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count291
+\calc@Ccount=\count292
 \calc@Cskip=\skip71
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrlayer-scrpag
@@ -613,8 +622,8 @@ Package caption Info: KOMA-Script document class detected.
 File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
 KOMA-Script document classes (AR)
 ))
-\c@caption@flags=\count292
-\c@continuedfloat=\count293
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
 Package caption Info: hyperref package is loaded.
 )
 LaTeX Font Info:    Trying to load font information for T1+bch on input line 28
@@ -662,15 +671,15 @@ Package: csquotes 2021-01-04 v5.2k context-sensitive quotations (JAW)
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count294
+\etb@tempcnta=\count295
 )
-\csq@reset=\count295
-\csq@gtype=\count296
-\csq@glevel=\count297
-\csq@qlevel=\count298
-\csq@maxlvl=\count299
-\csq@tshold=\count300
-\csq@ltx@everypar=\toks24
+\csq@reset=\count296
+\csq@gtype=\count297
+\csq@glevel=\count298
+\csq@qlevel=\count299
+\csq@maxlvl=\count300
+\csq@tshold=\count301
+\csq@ltx@everypar=\toks25
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2021-01-04 v5.2k csquotes generic definitions (JAW)
@@ -690,7 +699,7 @@ Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count301
+\lrq@indent=\count302
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -698,48 +707,48 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count302
-\c@listtotal=\count303
-\c@listcount=\count304
-\c@liststart=\count305
-\c@liststop=\count306
-\c@citecount=\count307
-\c@citetotal=\count308
-\c@multicitecount=\count309
-\c@multicitetotal=\count310
-\c@instcount=\count311
-\c@maxnames=\count312
-\c@minnames=\count313
-\c@maxitems=\count314
-\c@minitems=\count315
-\c@citecounter=\count316
-\c@maxcitecounter=\count317
-\c@savedcitecounter=\count318
-\c@uniquelist=\count319
-\c@uniquename=\count320
-\c@refsection=\count321
-\c@refsegment=\count322
-\c@maxextratitle=\count323
-\c@maxextratitleyear=\count324
-\c@maxextraname=\count325
-\c@maxextradate=\count326
-\c@maxextraalpha=\count327
-\c@abbrvpenalty=\count328
-\c@highnamepenalty=\count329
-\c@lownamepenalty=\count330
-\c@maxparens=\count331
-\c@parenlevel=\count332
-\blx@tempcnta=\count333
-\blx@tempcntb=\count334
-\blx@tempcntc=\count335
-\blx@maxsection=\count336
-\blx@maxsegment@0=\count337
-\blx@notetype=\count338
-\blx@parenlevel@text=\count339
-\blx@parenlevel@foot=\count340
-\blx@sectionciteorder@0=\count341
-\blx@entrysetcounter=\count342
-\blx@biblioinstance=\count343
+\c@tabx@nest=\count303
+\c@listtotal=\count304
+\c@listcount=\count305
+\c@liststart=\count306
+\c@liststop=\count307
+\c@citecount=\count308
+\c@citetotal=\count309
+\c@multicitecount=\count310
+\c@multicitetotal=\count311
+\c@instcount=\count312
+\c@maxnames=\count313
+\c@minnames=\count314
+\c@maxitems=\count315
+\c@minitems=\count316
+\c@citecounter=\count317
+\c@maxcitecounter=\count318
+\c@savedcitecounter=\count319
+\c@uniquelist=\count320
+\c@uniquename=\count321
+\c@refsection=\count322
+\c@refsegment=\count323
+\c@maxextratitle=\count324
+\c@maxextratitleyear=\count325
+\c@maxextraname=\count326
+\c@maxextradate=\count327
+\c@maxextraalpha=\count328
+\c@abbrvpenalty=\count329
+\c@highnamepenalty=\count330
+\c@lownamepenalty=\count331
+\c@maxparens=\count332
+\c@parenlevel=\count333
+\blx@tempcnta=\count334
+\blx@tempcntb=\count335
+\blx@tempcntc=\count336
+\blx@maxsection=\count337
+\blx@maxsegment@0=\count338
+\blx@notetype=\count339
+\blx@parenlevel@text=\count340
+\blx@parenlevel@foot=\count341
+\blx@sectionciteorder@0=\count342
+\blx@entrysetcounter=\count343
+\blx@biblioinstance=\count344
 \labelnumberwidth=\skip72
 \labelalphawidth=\skip73
 \biblabelsep=\skip74
@@ -751,9 +760,9 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language5
-\c@mincomprange=\count344
-\c@maxcomprange=\count345
-\c@mincompwidth=\count346
+\c@mincomprange=\count345
+\c@maxcomprange=\count346
+\c@mincompwidth=\count347
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -764,74 +773,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'alphabetic.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count347
-\c@savedafterword=\count348
-\c@annotator=\count349
-\c@savedannotator=\count350
-\c@author=\count351
-\c@savedauthor=\count352
-\c@bookauthor=\count353
-\c@savedbookauthor=\count354
-\c@commentator=\count355
-\c@savedcommentator=\count356
-\c@editor=\count357
-\c@savededitor=\count358
-\c@editora=\count359
-\c@savededitora=\count360
-\c@editorb=\count361
-\c@savededitorb=\count362
-\c@editorc=\count363
-\c@savededitorc=\count364
-\c@foreword=\count365
-\c@savedforeword=\count366
-\c@holder=\count367
-\c@savedholder=\count368
-\c@introduction=\count369
-\c@savedintroduction=\count370
-\c@namea=\count371
-\c@savednamea=\count372
-\c@nameb=\count373
-\c@savednameb=\count374
-\c@namec=\count375
-\c@savednamec=\count376
-\c@translator=\count377
-\c@savedtranslator=\count378
-\c@shortauthor=\count379
-\c@savedshortauthor=\count380
-\c@shorteditor=\count381
-\c@savedshorteditor=\count382
-\c@labelname=\count383
-\c@savedlabelname=\count384
-\c@institution=\count385
-\c@savedinstitution=\count386
-\c@lista=\count387
-\c@savedlista=\count388
-\c@listb=\count389
-\c@savedlistb=\count390
-\c@listc=\count391
-\c@savedlistc=\count392
-\c@listd=\count393
-\c@savedlistd=\count394
-\c@liste=\count395
-\c@savedliste=\count396
-\c@listf=\count397
-\c@savedlistf=\count398
-\c@location=\count399
-\c@savedlocation=\count400
-\c@organization=\count401
-\c@savedorganization=\count402
-\c@origlocation=\count403
-\c@savedoriglocation=\count404
-\c@origpublisher=\count405
-\c@savedorigpublisher=\count406
-\c@publisher=\count407
-\c@savedpublisher=\count408
-\c@language=\count409
-\c@savedlanguage=\count410
-\c@origlanguage=\count411
-\c@savedoriglanguage=\count412
-\c@pageref=\count413
-\c@savedpageref=\count414
+\c@afterword=\count348
+\c@savedafterword=\count349
+\c@annotator=\count350
+\c@savedannotator=\count351
+\c@author=\count352
+\c@savedauthor=\count353
+\c@bookauthor=\count354
+\c@savedbookauthor=\count355
+\c@commentator=\count356
+\c@savedcommentator=\count357
+\c@editor=\count358
+\c@savededitor=\count359
+\c@editora=\count360
+\c@savededitora=\count361
+\c@editorb=\count362
+\c@savededitorb=\count363
+\c@editorc=\count364
+\c@savededitorc=\count365
+\c@foreword=\count366
+\c@savedforeword=\count367
+\c@holder=\count368
+\c@savedholder=\count369
+\c@introduction=\count370
+\c@savedintroduction=\count371
+\c@namea=\count372
+\c@savednamea=\count373
+\c@nameb=\count374
+\c@savednameb=\count375
+\c@namec=\count376
+\c@savednamec=\count377
+\c@translator=\count378
+\c@savedtranslator=\count379
+\c@shortauthor=\count380
+\c@savedshortauthor=\count381
+\c@shorteditor=\count382
+\c@savedshorteditor=\count383
+\c@labelname=\count384
+\c@savedlabelname=\count385
+\c@institution=\count386
+\c@savedinstitution=\count387
+\c@lista=\count388
+\c@savedlista=\count389
+\c@listb=\count390
+\c@savedlistb=\count391
+\c@listc=\count392
+\c@savedlistc=\count393
+\c@listd=\count394
+\c@savedlistd=\count395
+\c@liste=\count396
+\c@savedliste=\count397
+\c@listf=\count398
+\c@savedlistf=\count399
+\c@location=\count400
+\c@savedlocation=\count401
+\c@organization=\count402
+\c@savedorganization=\count403
+\c@origlocation=\count404
+\c@savedoriglocation=\count405
+\c@origpublisher=\count406
+\c@savedorigpublisher=\count407
+\c@publisher=\count408
+\c@savedpublisher=\count409
+\c@language=\count410
+\c@savedlanguage=\count411
+\c@origlanguage=\count412
+\c@savedoriglanguage=\count413
+\c@pageref=\count414
+\c@savedpageref=\count415
 \shorthandwidth=\skip80
 \shortjournalwidth=\skip81
 \shortserieswidth=\skip82
@@ -857,19 +866,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count415
-\c@textcitetotal=\count416
-\c@textcitemaxnames=\count417
-\c@biburlbigbreakpenalty=\count418
-\c@biburlbreakpenalty=\count419
-\c@biburlnumpenalty=\count420
-\c@biburlucpenalty=\count421
-\c@biburllcpenalty=\count422
+\c@textcitecount=\count416
+\c@textcitetotal=\count417
+\c@textcitemaxnames=\count418
+\c@biburlbigbreakpenalty=\count419
+\c@biburlbreakpenalty=\count420
+\c@biburlnumpenalty=\count421
+\c@biburlucpenalty=\count422
+\c@biburllcpenalty=\count423
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count423
+\c@smartand=\count424
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -888,8 +897,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count424
-\c@bbx:relatedtotal=\count425
+\c@bbx:relatedcount=\count425
+\c@bbx:relatedtotal=\count426
 ))
 Package biblatex Info: Trying to load citation style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.cbx' found.
@@ -913,23 +922,23 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 ))
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count426
+\lst@mode=\count427
 \lst@gtempboxa=\box52
-\lst@token=\toks25
-\lst@length=\count427
+\lst@token=\toks26
+\lst@length=\count428
 \lst@currlwidth=\dimen164
-\lst@column=\count428
-\lst@pos=\count429
+\lst@column=\count429
+\lst@pos=\count430
 \lst@lostspace=\dimen165
 \lst@width=\dimen166
-\lst@newlines=\count430
-\lst@lineno=\count431
+\lst@newlines=\count431
+\lst@lineno=\count432
 \lst@maxwidth=\dimen167
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count432
-\lst@skipnumbers=\count433
+\c@lstnumber=\count433
+\lst@skipnumbers=\count434
 \lst@framebox=\box53
 )
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/listings.cfg
@@ -957,7 +966,7 @@ Package: expl3 2021-02-06 L3 programming layer (loader)
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.
 def
 File: l3backend-pdftex.def 2021-02-06 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count434
+\l__color_backend_stack_int=\count435
 \l__pdf_internal_box=\box54
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
@@ -985,7 +994,10 @@ Package scrhack Info: loading setspace hack on input line 197.
 File: setspace.hak 2020/09/21 v3.32 KOMA-Script scrhack part (hacking package s
 etspace)
 ))
-(./thesis_qp_ajpelu.aux)
+(./thesis_qp_ajpelu.aux
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+)
 \openout1 = `thesis_qp_ajpelu.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -1006,9 +1018,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
-Package scrbase Info: activating english \contentsname on input line 31.
-Package scrbase Info: activating english \listfigurename on input line 31.
-Package scrbase Info: activating english \listtablename on input line 31.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.
 sty
@@ -1048,7 +1059,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count435
+\c@section@level=\count436
 )
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
@@ -1071,11 +1082,17 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count436
+\BKM@id=\count437
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1102,10 +1119,8 @@ Package biblatex Info: ... file 'thesis_qp_ajpelu.bbl' not found.
 No file thesis_qp_ajpelu.bbl.
 Package biblatex Info: Reference section=0 on input line 31.
 Package biblatex Info: Reference segment=0 on input line 31.
-\c@lstlisting=\count437
+\c@lstlisting=\count438
 Package scrhack Info: undefining \float@addtolists on input line 31.
-Package scrbase Info: activating english \figurename on input line 43.
-Package scrbase Info: activating english \tablename on input line 44.
 (./content/titlepages.tex [1
 
 
@@ -1154,9 +1169,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 58.
+
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
 9.
-
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1194,6 +1212,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 59.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qhv/b/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
  [5
 
 
@@ -1203,21 +1224,69 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 ]
-(./content/acknowledgement.tex [7
+(./content/acknowledgement.tex
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 7.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 7.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 7.
+
+[7
 
 
 ]) [8]
 Package tocbasic Info: character protrusion at toc deactivated on input line 66
 .
  (./thesis_qp_ajpelu.toc
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 6.
+Package tocbasic Info: Using my definition of `\numberline' on input line 8.
+Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 14.
+Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 38.
+Package tocbasic Info: Using my definition of `\numberline' on input line 40.
+Package tocbasic Info: Using my definition of `\numberline' on input line 42.
+Package tocbasic Info: Using my definition of `\numberline' on input line 44.
+Package tocbasic Info: Using my definition of `\numberline' on input line 46.
+Package tocbasic Info: Using my definition of `\numberline' on input line 48.
+Package tocbasic Info: Using my definition of `\numberline' on input line 50.
+Package tocbasic Info: Using my definition of `\numberline' on input line 52.
+Package tocbasic Info: Using my definition of `\numberline' on input line 54.
+Package tocbasic Info: Using my definition of `\numberline' on input line 56.
  [9
 
 
 
 
-])
+]
+Package tocbasic Info: Using my definition of `\numberline' on input line 58.
+Package tocbasic Info: Using my definition of `\numberline' on input line 60.
+Package tocbasic Info: Using my definition of `\numberline' on input line 62.
+Package tocbasic Info: Using my definition of `\numberline' on input line 64.
+Package tocbasic Info: Using my definition of `\numberline' on input line 66.
+Package tocbasic Info: Using my definition of `\numberline' on input line 68.
+Package tocbasic Info: Using my definition of `\numberline' on input line 70.
+)
 \tf@toc=\write5
 \openout5 = `thesis_qp_ajpelu.toc'.
 
@@ -1262,10 +1331,41 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <75> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <75> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 6.
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
 [3
 
 
-] [4]
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 22.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 22.
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+[4]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 22.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 22.
+
 
 LaTeX Warning: Citation 'Jurgens:2000' on page 5 undefined on input line 22.
 
@@ -1291,11 +1391,24 @@ LaTeX Warning: Citation 'Apple:pages:2010' on page 5 undefined on input line 22
 .
 
 
-Overfull \hbox (31.03796pt too wide) in paragraph at lines 22--23
+Overfull \hbox (29.97876pt too wide) in paragraph at lines 22--23
 []\T1/bch/m/n/12 (-20) [[]; []; []; []; [];
  []
 
-[5]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 27.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 27.
+
+
+Underfull \vbox (badness 2409) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [5]
 
 LaTeX Warning: Citation 'WEB:GNU:GPL:2010' on page 6 undefined on input line 32
 .
@@ -1303,7 +1416,36 @@ LaTeX Warning: Citation 'WEB:GNU:GPL:2010' on page 6 undefined on input line 32
 
 LaTeX Warning: Citation 'WEB:Miede:2011' on page 6 undefined on input line 32.
 
-[6] (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/lstlang1.sty
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 33.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 33.
+
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+[6]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 38.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 38.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 41.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 41.
+
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+[7] (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
@@ -1320,67 +1462,464 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 46.
- [7] [8])
-(./content/chapter-related-work.tex [9] [10
 
 
-]
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 49.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 49.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 71.
+
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+[8]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 74.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 77.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 80.
+
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
+[9])
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 79.
+
+(./content/chapter-related-work.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [10]
 chapter 2.
 
 Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
 (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-[11] [12] [13] [14] [15] [16]) (./content/chapter-system.tex [17] [18
+[11
 
 
 ]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 19.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 19.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 24.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 24.
+
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+[12]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 24.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 29.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 29.
+
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+[13]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 29.
+
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+[14]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 29.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+[15]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Underfull \vbox (badness 1895) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [16]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+[17]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+) (./content/chapter-system.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [18]
 chapter 3.
 
 Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-[19]
-<img/Clean-Thesis-Figure.pdf, id=252, 1297.44722pt x 256.89075pt>
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 13.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 13.
+
+[19
+
+
+]
+<img/Clean-Thesis-Figure.pdf, id=253, 1297.44722pt x 256.89075pt>
 File: img/Clean-Thesis-Figure.pdf Graphic file (type pdf)
 <use img/Clean-Thesis-Figure.pdf>
 Package pdftex.def Info: img/Clean-Thesis-Figure.pdf  used on input line 16.
 (pdftex.def)             Requested size: 394.78204pt x 78.16536pt.
- [20 <./img/Clean-Thesis-Figure.pdf>]
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 21.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 21.
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[20 <./img/Clean-Thesis-Figure.pdf>]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 26.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 26.
+
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+[21]
 File: img/Clean-Thesis-Figure.pdf Graphic file (type pdf)
 <use img/Clean-Thesis-Figure.pdf>
 Package pdftex.def Info: img/Clean-Thesis-Figure.pdf  used on input line 29.
 (pdftex.def)             Requested size: 394.78204pt x 78.16536pt.
- [21] [22] [23] [24])
-(./content/chapter-concepts.tex [25] [26
 
 
-]
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+[22]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[23]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[24]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 39.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 44.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 44.
+
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+[25]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 44.
+
+) (./content/chapter-concepts.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [26]
 chapter 4.
 
 Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-[27] [28] [29] [30] [31] [32]) (./content/chapter-conclusion.tex [33] [34
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+[27
 
 
 ]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 13.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 13.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 13.
+
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+[28]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 18.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 18.
+
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+[29]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 18.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 18.
+
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+[30]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 23.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 23.
+
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+[31]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 23.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 23.
+
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+[32]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 23.
+
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+[33]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 28.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 28.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 28.
+
+) (./content/chapter-conclusion.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [34]
 chapter 5.
 
 Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
-[35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
-[37] [38])
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 6.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 6.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 6.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 11.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 11.
+
+[35
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 11.
+
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+[36]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 16.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 16.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 16.
+
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+[37]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 16.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 21.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 21.
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[38]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 21.
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[39])
 
 LaTeX Warning: Empty bibliography on input line 96.
 
@@ -1394,10 +1933,9 @@ Package biblatex Warning: Type 'online' not found on input line 98.
 
 LaTeX Warning: Empty bibliography on input line 98.
 
-[39] [40
-
-
-]
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
+[40]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
@@ -1410,6 +1948,8 @@ Overfull \hbox (5.21796pt too wide) in paragraph at lines 111--111
 [41
 
 
+
+
 ] [42] (./content/chapter-appendix.tex
 chapter A.
 
@@ -1417,25 +1957,70 @@ Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
 [][][][][][][][] 
  []
 
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 6.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 6.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 11.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 11.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 27.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 27.
+
 [43
 
 
 
 
-]) [44] (./content/colophon.tex) [45
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 40.
 
 
-] [46
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 40.
+
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+[44])
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [45] [46
+
+
+] (./content/colophon.tex) [47] [48
 
 
 ] (./content/declaration.tex
 chapter without number
-) [47
+) [49
 
 
-] [48
+] [50
 
-] (./thesis_qp_ajpelu.aux)
+] (./thesis_qp_ajpelu.aux
+LaTeX Info: Redefining \sptext on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+)
 
 LaTeX Warning: There were undefined references.
 
@@ -1451,16 +2036,17 @@ Package logreq Info: Writing requests to 'thesis_qp_ajpelu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28304 strings out of 481270
- 525443 string characters out of 5915538
- 1459457 words of memory out of 5000000
- 44405 multiletter control sequences out of 15000+600000
- 549352 words of font info for 229 fonts, out of 8000000 for 9000
+ 28737 strings out of 481270
+ 531742 string characters out of 5915538
+ 1486263 words of memory out of 5000000
+ 44846 multiletter control sequences out of 15000+600000
+ 551230 words of font info for 218 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 111i,21n,134p,10611b,2445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,21n,134p,10611b,2615s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ajpelu/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/User
 s/ajpelu/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/aj
 pelu/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/ajpelu/Libr
+ary/TinyTeX/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/Users/ajpelu/Libr
 ary/TinyTeX/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</Users/ajpelu/Library
 /TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></Users/ajpelu/Libr
 ary/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></Users/ajpelu/L
@@ -1480,10 +2066,10 @@ t/fonts/type1/public/tex-gyre/qhvri.pfb></Users/ajpelu/Library/TinyTeX/texmf-di
 st/fonts/type1/urw/bookman/ubkl8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist
 /fonts/type1/urw/bookman/ubkli8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist/
 fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on thesis_qp_ajpelu.pdf (58 pages, 386206 bytes).
+Output written on thesis_qp_ajpelu.pdf (60 pages, 379667 bytes).
 PDF statistics:
- 600 PDF objects out of 1000 (max. 8388607)
- 513 compressed objects within 6 object streams
- 134 named destinations out of 1000 (max. 500000)
- 80699 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 611 PDF objects out of 1000 (max. 8388607)
+ 522 compressed objects within 6 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 81211 words of extra memory for PDF output out of 89155 (max. 10000000)
 
