@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.8)  18 FEB 2021 10:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.8)  18 FEB 2021 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -942,11 +942,11 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 1: chapter
 1: section
 )
-Package hyperref Info: Option `plainpages' set `false' on input line 77.
-Package hyperref Info: Option `colorlinks' set `false' on input line 77.
-Package hyperref Info: Option `breaklinks' set `true' on input line 77.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 77.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 77.
+Package hyperref Info: Option `plainpages' set `false' on input line 78.
+Package hyperref Info: Option `colorlinks' set `false' on input line 78.
+Package hyperref Info: Option `breaklinks' set `true' on input line 78.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 78.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 78.
 ) (/Users/ajpelu/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrhack.sty
 Package: scrhack 2020/09/21 v3.32 KOMA-Script package (hacking other packages)
 
@@ -1345,7 +1345,7 @@ Overfull \hbox (11.99998pt too wide) in paragraph at lines 3--3
  []
 
 [19]
-<img/Clean-Thesis-Figure.pdf, id=251, 1297.44722pt x 256.89075pt>
+<img/Clean-Thesis-Figure.pdf, id=252, 1297.44722pt x 256.89075pt>
 File: img/Clean-Thesis-Figure.pdf Graphic file (type pdf)
 <use img/Clean-Thesis-Figure.pdf>
 Package pdftex.def Info: img/Clean-Thesis-Figure.pdf  used on input line 16.
@@ -1451,11 +1451,11 @@ Package logreq Info: Writing requests to 'thesis_qp_ajpelu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28285 strings out of 481270
- 525218 string characters out of 5915538
- 1458413 words of memory out of 5000000
- 44399 multiletter control sequences out of 15000+600000
- 542288 words of font info for 220 fonts, out of 8000000 for 9000
+ 28304 strings out of 481270
+ 525443 string characters out of 5915538
+ 1459457 words of memory out of 5000000
+ 44405 multiletter control sequences out of 15000+600000
+ 549352 words of font info for 229 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  111i,21n,134p,10611b,2445s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ajpelu/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/User
@@ -1474,15 +1474,16 @@ yTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/ajpelu/Library/TinyTeX
 mf-dist/fonts/type1/public/lm/lmtt12.pfb></Users/ajpelu/Library/TinyTeX/texmf-d
 ist/fonts/type1/public/lm/lmtti10.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist
 /fonts/type1/public/tex-gyre/qhvb.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist
-/fonts/type1/public/tex-gyre/qhvr.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist
-/fonts/type1/public/tex-gyre/qhvri.pfb></Users/ajpelu/Library/TinyTeX/texmf-dis
-t/fonts/type1/urw/bookman/ubkl8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist/
-fonts/type1/urw/bookman/ubkli8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist/f
-onts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on thesis_qp_ajpelu.pdf (58 pages, 364346 bytes).
+/fonts/type1/public/tex-gyre/qhvbi.pfb></Users/ajpelu/Library/TinyTeX/texmf-dis
+t/fonts/type1/public/tex-gyre/qhvr.pfb></Users/ajpelu/Library/TinyTeX/texmf-dis
+t/fonts/type1/public/tex-gyre/qhvri.pfb></Users/ajpelu/Library/TinyTeX/texmf-di
+st/fonts/type1/urw/bookman/ubkl8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist
+/fonts/type1/urw/bookman/ubkli8a.pfb></Users/ajpelu/Library/TinyTeX/texmf-dist/
+fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on thesis_qp_ajpelu.pdf (58 pages, 386206 bytes).
 PDF statistics:
- 596 PDF objects out of 1000 (max. 8388607)
- 510 compressed objects within 6 object streams
+ 600 PDF objects out of 1000 (max. 8388607)
+ 513 compressed objects within 6 object streams
  134 named destinations out of 1000 (max. 500000)
- 76091 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 80699 words of extra memory for PDF output out of 89155 (max. 10000000)
 
