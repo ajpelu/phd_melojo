@@ -7,11 +7,15 @@
 \PassOptionsToPackage{utf8}{inputenc}
 \usepackage{inputenc}
 
+\usepackage[english, spanish]{babel}
 
 % **************************************************
 % Information and Commands for Reuse
 % **************************************************
-\newcommand{\Qpw}{\textit{Quercus pyrenaica} Willd.}
+\newcommand{\Qpw}{\textit{Quercus pyrenaica} Willd.\xspace}
+\newcommand{\Qpy}{\textit{Quercus pyrenaica}\xspace}
+\newcommand{\Qp}{\textit{Q. pyrenaica}\xspace}
+
 \newcommand{\thesisTitle}{Anáisis de la dinámica de los robledales (\Qpw) frente al cambio global en el límite sur de su distribución (Sierra Nevada)}
 \newcommand{\thesisName}{Antonio J. P\'erez Luque}
 \newcommand{\thesisSubject}{Biología Fundamental y de Sistemas}
@@ -47,7 +51,7 @@
 % **************************************************
 % Load and Configure Packages
 % **************************************************
-\usepackage[english, spanish]{babel} % babel system, adjust the language of the content
+%\usepackage[english, spanish]{babel} % babel system, adjust the language of the content
 \PassOptionsToPackage{% setup clean thesis style
     figuresep=colon,%
     hangfigurecaption=false,%
@@ -56,12 +60,12 @@
     sansserif=false,%
     configurelistings=true,%
     colorize=full,%
-    colortheme=bluemagenta,%
+    colortheme=bluegreen,%
     configurebiblatex=true,%
-    bibsys=biber,%
-    bibfile=bib-refs,%
-    bibstyle=alphabetic,%
-    bibsorting=nty,%
+    bibsys=bibtex,%
+    bibfile=referencias,%
+    bibstyle=authoryear,%
+    bibsorting=nyt, %
 }{cleanthesis}
 \usepackage{cleanthesis}
 
@@ -81,3 +85,12 @@
 % Other Packages
 % **************************************************
 \usepackage{scrhack}
+
+
+% **************************************************
+% Other Packages
+% **************************************************
+
+\DefineBibliographyStrings{spanish}{%
+	andothers = {et\addabbrvspace al\adddot}
+}
