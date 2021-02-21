@@ -1,0 +1,2524 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Apple:keynote:2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Apple Inc.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Apple Inc.}}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Keynote '09 User Guide}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Apple:numbers:2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Apple Inc.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Apple Inc.}}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Numbers '09 User Guide}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Apple:pages:2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Apple Inc.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Apple Inc.}}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{extradate}{3}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Pages '09 User Guide}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Benavidesetal2013DirectIndirect}{article}{}
+    \name{author}{9}{}{%
+      {{hash=BR}{%
+         family={Benavides},
+         familyi={B\bibinitperiod},
+         given={Raquel},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RSG}{%
+         family={Rabasa},
+         familyi={R\bibinitperiod},
+         given={Sonia\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Granda},
+         familyi={G\bibinitperiod},
+         given={Elena},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Escudero},
+         familyi={E\bibinitperiod},
+         given={Adrián},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HJA}{%
+         family={Hódar},
+         familyi={H\bibinitperiod},
+         given={José\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MVJ}{%
+         family={Martínez-Vilalta},
+         familyi={M\bibinithyphendelim V\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RAM}{%
+         family={Rincón},
+         familyi={R\bibinitperiod},
+         given={Ana\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zamora},
+         familyi={Z\bibinitperiod},
+         given={Regino},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Valladares},
+         familyi={V\bibinitperiod},
+         given={Fernando},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BR+1}
+    \strng{fullhash}{BRRSGGEEAHJAMVJRAMZRVF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1371/journal.pone.0059824
+    \endverb
+    \field{number}{3}
+    \field{pages}{e59824}
+    \field{title}{Direct and indirect effects of climate on demography and
+  early growth of {{Pinus}} sylvestris at the rear edge: changing roles of
+  biotic and abiotic factors}
+    \field{volume}{8}
+    \field{journaltitle}{PLoS ONE}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Benitoetal2011SimulatingPotential}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BB}{%
+         family={Benito},
+         familyi={B\bibinitperiod},
+         given={Blas},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lorite},
+         familyi={L\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peñas},
+         familyi={P\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BB+1}
+    \strng{fullhash}{BBLJPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1007/s10584-010-0015-3
+    \endverb
+    \field{number}{3}
+    \field{pages}{471\bibrangedash 483}
+    \field{title}{Simulating potential effects of climatic warming on
+  altitudinal patterns of key species in {{Mediterranean}}-alpine ecosystems}
+    \field{volume}{108}
+    \field{journaltitle}{Climatic Change}
+    \field{year}{2011}
+  \endentry
+
+  \entry{BenitoGarzonetal2011IntraspecificVariability}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BGM}{%
+         family={Benito-Garzón},
+         familyi={B\bibinithyphendelim G\bibinitperiod},
+         given={Marta},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Aĺıa},
+         familyi={A\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RTM}{%
+         family={Robson},
+         familyi={R\bibinitperiod},
+         given={T.\bibnamedelima Matthew},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ZMA}{%
+         family={Zavala},
+         familyi={Z\bibinitperiod},
+         given={Miguel\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGM+1}
+    \strng{fullhash}{BGMARRTMZMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1111/j.1466-8238.2010.00646.x
+    \endverb
+    \field{number}{5}
+    \field{pages}{766\bibrangedash 778}
+    \field{title}{Intra-specific variability and plasticity influence potential
+  tree species distributions under climate change}
+    \field{volume}{20}
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2011}
+  \endentry
+
+  \entry{BenitoGarzonetal2008EffectsClimate}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BGM}{%
+         family={Benito-Garzón},
+         familyi={B\bibinithyphendelim G\bibinitperiod},
+         given={Marta},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dDRS}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Dios},
+         familyi={D\bibinitperiod},
+         given={Rut\bibnamedelima Sánchez},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OHS}{%
+         family={Ollero},
+         familyi={O\bibinitperiod},
+         given={Helios\bibnamedelima Sainz},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGM+1}
+    \strng{fullhash}{BGMDRSdOHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.3170/2008-7-18348
+    \endverb
+    \field{number}{2}
+    \field{pages}{169\bibrangedash 178}
+    \field{title}{Effects of climate change on the distribution of {{Iberian}}
+  tree species}
+    \field{volume}{11}
+    \field{journaltitle}{Applied Vegetation Science}
+    \field{year}{2008}
+  \endentry
+
+  \entry{BenitoGarzonetal2007PredictiveModelling}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BGM}{%
+         family={Benito-Garzón},
+         familyi={B\bibinithyphendelim G\bibinitperiod},
+         given={Marta},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dDRS}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Dios},
+         familyi={D\bibinitperiod},
+         given={Rut\bibnamedelima Sánchez},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OHS}{%
+         family={Ollero},
+         familyi={O\bibinitperiod},
+         given={Helios\bibnamedelima Sáinz},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGM+1}
+    \strng{fullhash}{BGMDRSdOHS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1111/j.0906-7590.2007.04813.x
+    \endverb
+    \field{number}{1}
+    \field{pages}{120\bibrangedash 134}
+    \field{title}{Predictive modelling of tree species distributions on the
+  {{Iberian Peninsula}} during the {{Last Glacial Maximum}} and
+  {{Mid}}-{{Holocene}}}
+    \field{volume}{30}
+    \field{journaltitle}{Ecography}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Castroetal2004SeedlingEstablishment}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CJ}{%
+         family={Castro},
+         familyi={C\bibinitperiod},
+         given={Jorge},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zamora},
+         familyi={Z\bibinitperiod},
+         given={Regino},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJA}{%
+         family={H{\'o}dar},
+         familyi={H\bibinitperiod},
+         given={Jos{\'e}\bibnamedelima A},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GJM}{%
+         family={G{\'o}mez},
+         familyi={G\bibinitperiod},
+         given={Jos{\'e}\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJZRHJAGJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{12}
+    \field{title}{Seedling establishment of a boreal tree species ({{Pinus}}
+  sylvestris) at its southernmost distribution limit: consequences of being in
+  a marginal {{Mediterranean}} habitat}
+    \field{journaltitle}{Journal of Ecology}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Chenetal2015InfluenceClimate}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CK}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={K},
+         giveni={K},
+      }}%
+      {{hash=DLI}{%
+         family={Dorado-Liñán},
+         familyi={D\bibinithyphendelim L\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+      {{hash=AL}{%
+         family={Akhmetzyanov},
+         familyi={A\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=GIG}{%
+         family={Gea-Izquierdo},
+         familyi={G\bibinithyphendelim I\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=ZT}{%
+         family={Zlatanov},
+         familyi={Z\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+      {{hash=MA}{%
+         family={Menzel},
+         familyi={M\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \strng{namehash}{CK+1}
+    \strng{fullhash}{CKDLIALGIGZTMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.3354/cr01345
+    \endverb
+    \field{number}{3}
+    \field{pages}{229\bibrangedash 242}
+    \field{title}{Influence of climate drivers and the {{North Atlantic
+  Oscillation}} on beech growth at marginal sites across the {{Mediterranean}}}
+    \field{volume}{66}
+    \field{journaltitle}{Climate Research}
+    \field{year}{2015}
+  \endentry
+
+  \entry{DeFrenneetal2013MicroclimateModerates}{article}{}
+    \name{author}{36}{}{%
+      {{hash=DFP}{%
+         family={De\bibnamedelima Frenne},
+         familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RSF}{%
+         family={Rodriguez-Sanchez},
+         familyi={R\bibinithyphendelim S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CDA}{%
+         family={Coomes},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Baeten},
+         familyi={B\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Verstraeten},
+         familyi={V\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vellend},
+         familyi={V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BRM}{%
+         family={Bernhardt-Romermann},
+         familyi={B\bibinithyphendelim R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BCD}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={C.\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Brunet},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cornelis},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DGM}{%
+         family={Decocq},
+         familyi={D\bibinitperiod},
+         given={G.\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DH}{%
+         family={Dierschke},
+         familyi={D\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=EO}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GFS}{%
+         family={Gilliam},
+         familyi={G\bibinitperiod},
+         given={F.\bibnamedelima S.},
+         giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hedl},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Heinken},
+         familyi={H\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hermy},
+         familyi={H\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hommel},
+         familyi={H\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JMA}{%
+         family={Jenkins},
+         familyi={J\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KDL}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={D.\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KKJ}{%
+         family={Kirby},
+         familyi={K\bibinitperiod},
+         given={K.\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MFJG}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={F.\bibnamedelima J.\bibnamedelima G.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Naaf},
+         familyi={N\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Newman},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Peterken},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Petrik},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schultz},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sonnier},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VCH}{%
+         family={Van\bibnamedelima Calster},
+         familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WDM}{%
+         family={Waller},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WGR}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={G.-R.},
+         giveni={G\bibinithyphendelim R\bibinitperiod},
+      }}%
+      {{hash=WPS}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={P.\bibnamedelima S.},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WKD}{%
+         family={Woods},
+         familyi={W\bibinitperiod},
+         given={K.\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wulf},
+         familyi={W\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GBJ}{%
+         family={Graae},
+         familyi={G\bibinitperiod},
+         given={B.\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Verheyen},
+         familyi={V\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DFP+1}
+  \strng{fullhash}{DFPRSFCDABLVGVMBRMBCDBJCJDGMDHEOGFSHRHTHMHPJMAKDLKKJMFJGNTNMPGPPSJSGVCHWDMWGRWPSWKDWMGBJVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1073/pnas.1311190110
+    \endverb
+    \field{number}{46}
+    \field{pages}{18561\bibrangedash 18565}
+    \field{title}{Microclimate moderates plant responses to macroclimate
+  warming}
+    \field{volume}{110}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2013}
+  \endentry
+
+  \entry{DoradoLinanetal2019GeographicalAdaptation}{article}{}
+    \name{author}{18}{}{%
+      {{hash=DLI}{%
+         family={Dorado-Li{\~n}{\'a}n},
+         familyi={D\bibinithyphendelim L\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Piovesan},
+         familyi={P\bibinitperiod},
+         given={Gianluca},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MSE}{%
+         family={Mart{\'i}nez-Sancho},
+         familyi={M\bibinithyphendelim S\bibinitperiod},
+         given={Elisabet},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GIG}{%
+         family={Gea-Izquierdo},
+         familyi={G\bibinithyphendelim I\bibinitperiod},
+         given={Guillermo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZC}{%
+         family={Zang},
+         familyi={Z\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CI}{%
+         family={Ca{\~n}ellas},
+         familyi={C\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Castagneri},
+         familyi={C\bibinitperiod},
+         given={Daniele},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DFA}{%
+         family={Di\bibnamedelima Filippo},
+         familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Alfredo},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Guti{\'e}rrez},
+         familyi={G\bibinitperiod},
+         given={Emilia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Ewald},
+         familyi={E\bibinitperiod},
+         given={Joerg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FdUL}{%
+         prefix={Fern{\'a}ndez-de},
+         prefixi={F\bibinithyphendelim d\bibinitperiod},
+         family={U{\~n}a},
+         familyi={U\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hornstein},
+         familyi={H\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JMC}{%
+         family={Jantsch},
+         familyi={J\bibinitperiod},
+         given={Matthias\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Levani{\v c}},
+         familyi={L\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MKH}{%
+         family={Mellert},
+         familyi={M\bibinitperiod},
+         given={Karl\bibnamedelima H.},
+         giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vacchiano},
+         familyi={V\bibinitperiod},
+         given={Giorgio},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZT}{%
+         family={Zlatanov},
+         familyi={Z\bibinitperiod},
+         given={Tzvetan},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Menzel},
+         familyi={M\bibinitperiod},
+         given={Annette},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DLI+1}
+    \strng{fullhash}{DLIPGMSEGIGZCCICDDFAGEEJULFdHDJMCLTMKHVGZTMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1111/gcb.14544
+    \endverb
+    \field{number}{4}
+    \field{pages}{1296\bibrangedash 1314}
+    \field{title}{Geographical adaptation prevails over species-specific
+  determinism in trees' vulnerability to climate change at {{Mediterranean}}
+  rear-edge forests}
+    \field{volume}{25}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2019}
+  \endentry
+
+  \entry{ElsenTingley2015GlobalMountain}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EPR}{%
+         family={Elsen},
+         familyi={E\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=TMW}{%
+         family={Tingley},
+         familyi={T\bibinitperiod},
+         given={Morgan\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EPRTMW1}
+    \strng{fullhash}{EPRTMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \verb{doi}
+    \verb 10.1038/nclimate2656
+    \endverb
+    \field{number}{8}
+    \field{pages}{772\bibrangedash 776}
+    \field{title}{Global mountain topography and the fate of montane species
+  under climate change}
+    \verb{url}
+    \verb http://www.nature.com/articles/nclimate2656
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Nature Climate Change}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Fadyetal2016EvolutionbasedApproach}{article}{}
+    \name{author}{26}{}{%
+      {{hash=FB}{%
+         family={Fady},
+         familyi={F\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AFA}{%
+         family={Aravanopoulos},
+         familyi={A\bibinitperiod},
+         given={Filippos\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Alizoti},
+         familyi={A\bibinitperiod},
+         given={Paraskevi},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mátyás},
+         familyi={M\bibinitperiod},
+         given={Csaba},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=vWG}{%
+         prefix={von},
+         prefixi={v\bibinitperiod},
+         family={Wühlisch},
+         familyi={W\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Westergren},
+         familyi={W\bibinitperiod},
+         given={Marjana},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Belletti},
+         familyi={B\bibinitperiod},
+         given={Piero},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Cvjetkovic},
+         familyi={C\bibinitperiod},
+         given={Branislav},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={Ducci},
+         familyi={D\bibinitperiod},
+         given={Fulvio},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Huber},
+         familyi={H\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KCT}{%
+         family={Kelleher},
+         familyi={K\bibinitperiod},
+         given={Colin\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Khaldi},
+         familyi={K\bibinitperiod},
+         given={Abdelhamid},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KMBD}{%
+         family={Kharrat},
+         familyi={K\bibinitperiod},
+         given={Magda Bou\bibnamedelima Dagher},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kraigher},
+         familyi={K\bibinitperiod},
+         given={Hojka},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kramer},
+         familyi={K\bibinitperiod},
+         given={Koen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MU}{%
+         family={Mühlethaler},
+         familyi={M\bibinitperiod},
+         given={Urs},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Peric},
+         familyi={P\bibinitperiod},
+         given={Sanja},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Perry},
+         familyi={P\bibinitperiod},
+         given={Annika},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rousi},
+         familyi={R\bibinitperiod},
+         given={Matti},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sbay},
+         familyi={S\bibinitperiod},
+         given={Hassan},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Stojnic},
+         familyi={S\bibinitperiod},
+         given={Srdjan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tijardovic},
+         familyi={T\bibinitperiod},
+         given={Martina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TI}{%
+         family={Tsvetkov},
+         familyi={T\bibinitperiod},
+         given={Ivaylo},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=VMC}{%
+         family={Varela},
+         familyi={V\bibinitperiod},
+         given={Maria\bibnamedelima Carolina},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=VGG}{%
+         family={Vendramin},
+         familyi={V\bibinitperiod},
+         given={Giovanni\bibnamedelima G.},
+         giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=ZT}{%
+         family={Zlatanov},
+         familyi={Z\bibinitperiod},
+         given={Tzvetan},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FB+1}
+  \strng{fullhash}{FBAFAAPMCWGvWMBPCBDFHGKCTKAKMBDKHKKMUPSPARMSHSSTMTIVMCVGGZT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1016/j.foreco.2016.05.015
+    \endverb
+    \field{pages}{66\bibrangedash 75}
+    \field{title}{Evolution-based approach needed for the conservation and
+  silviculture of peripheral forest tree populations}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0378112716302559
+    \endverb
+    \field{volume}{375}
+    \field{journaltitle}{Forest Ecology and Management}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Felicisimo2011ImpactosVulnerabilidad}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=FA}{%
+         family={Felicísimo},
+         familyi={F\bibinitperiod},
+         given={A.M.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Oficina Española de Cambio Climático, Ministerio de Medio Ambiente y
+  Medio Rural y Marino}}%
+    }
+    \strng{namehash}{FA1}
+    \strng{fullhash}{FA1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{pagetotal}{552}
+    \field{title}{Impactos, vulnerabilidad y adaptación al cambio climático
+  de la biodiversidad española. 2. {{Flora}} y vegetación}
+    \list{location}{1}{%
+      {{Madrid}}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Franco1990Quercus}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=FA}{%
+         family={Franco},
+         familyi={F\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{7}{}{%
+      {{hash=CA}{%
+         family={Castroviejo},
+         familyi={C\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={La{\'i}nz},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={{L{\'o}pez-Gonz{\'a}lez}},
+         familyi={L\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Montserrat},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={{Mu{\~n}oz-Garmendia}},
+         familyi={M\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Paiva},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VL}{%
+         family={Villar},
+         familyi={V\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Real Jard\'in Bot\'anico, CSIC}}%
+    }
+    \strng{namehash}{FA2}
+    \strng{fullhash}{FA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Flora {{Ib\'erica}}}
+    \field{pages}{15\bibrangedash 36}
+    \field{title}{Quercus {{L}}.}
+    \field{volume}{2}
+    \list{location}{1}{%
+      {{Madrid}}%
+    }
+    \field{year}{1990}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{Franklinetal2013ModelingPlant}{article}{}
+    \name{author}{7}{}{%
+      {{hash=FJ}{%
+         family={Franklin},
+         familyi={F\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DFW}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Frank\bibnamedelima W.},
+         giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Ikegami},
+         familyi={I\bibinitperiod},
+         given={Makihiko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SAD}{%
+         family={Syphard},
+         familyi={S\bibinitperiod},
+         given={Alexandra\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FLE}{%
+         family={Flint},
+         familyi={F\bibinitperiod},
+         given={Lorraine\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FAL}{%
+         family={Flint},
+         familyi={F\bibinitperiod},
+         given={Alan\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hannah},
+         familyi={H\bibinitperiod},
+         given={Lee},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJ+1}
+    \strng{fullhash}{FJDFWIMSADFLEFALHL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1111/gcb.12051
+    \endverb
+    \field{number}{2}
+    \field{pages}{473\bibrangedash 483}
+    \field{shorttitle}{Modeling plant species distributions under future
+  climates}
+    \field{title}{Modeling plant species distributions under future climates:
+  how fine scale do climate projections need to be?}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/gcb.12051
+    \endverb
+    \field{volume}{19}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{WEB:GNU:GPL:2010}{online}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={{Free Software Foundation, Inc.}},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{GNU General Public License}
+    \verb{url}
+    \verb http://www.gnu.org/licenses/gpl.html
+    \endverb
+    \field{year}{2010}
+    \field{urlday}{27}
+    \field{urlmonth}{05}
+    \field{urlyear}{2011}
+  \endentry
+
+  \entry{GarciaValdesetal2013ChasingMoving}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GVR}{%
+         family={García-Valdés},
+         familyi={G\bibinithyphendelim V\bibinitperiod},
+         given={Raúl},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZMA}{%
+         family={Zavala},
+         familyi={Z\bibinitperiod},
+         given={Miguel\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AMB}{%
+         family={Araújo},
+         familyi={A\bibinitperiod},
+         given={Miguel\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Purves},
+         familyi={P\bibinitperiod},
+         given={Drew\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=GD}{%
+         family={Gibson},
+         familyi={G\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GVR+1}
+    \strng{fullhash}{GVRZMAAMBPDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1111/1365-2745.12049
+    \endverb
+    \field{number}{2}
+    \field{pages}{441\bibrangedash 453}
+    \field{title}{Chasing a moving target: projecting climate change-induced
+  shifts in non-equilibrial tree species distributions}
+    \verb{url}
+    \verb https://doi.org/10.1111/1365-2745.12049
+    \endverb
+    \field{volume}{101}
+    \field{journaltitle}{Journal of Ecology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{GeaIzquierdoCanellas2014LocalClimate}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GG}{%
+         family={{Gea-Izquierdo}},
+         familyi={G\bibinitperiod},
+         given={Guillermo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CI}{%
+         family={Ca{\~n}ellas},
+         familyi={C\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGCI1}
+    \strng{fullhash}{GGCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1007/s10021-013-9719-3
+    \endverb
+    \field{number}{2}
+    \field{pages}{228\bibrangedash 241}
+    \field{title}{Local climate forces instability in long-term productivity of
+  a {{Mediterranean}} oak along climatic gradients}
+    \field{volume}{17}
+    \field{journaltitle}{Ecosystems}
+    \field{year}{2014}
+  \endentry
+
+  \entry{GeaIzquierdoetal2013GrowthProjections}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GG}{%
+         family={{Gea-Izquierdo}},
+         familyi={G\bibinitperiod},
+         given={Guillermo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={{Fern{\'a}ndez-de-U{\~n}a}},
+         familyi={F\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CI}{%
+         family={Ca{\~n}ellas},
+         familyi={C\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GG+1}
+    \strng{fullhash}{GGFLCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1016/j.foreco.2013.05.058
+    \endverb
+    \field{pages}{282\bibrangedash 293}
+    \field{title}{Growth projections reveal local vulnerability of
+  {{Mediterranean}} oaks with rising temperatures}
+    \field{volume}{305}
+    \field{journaltitle}{Forest Ecology and Management}
+    \field{year}{2013}
+  \endentry
+
+  \entry{HampePetit2005ConservingBiodiversity}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HA}{%
+         family={Hampe},
+         familyi={H\bibinitperiod},
+         given={Arndt},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PRJ}{%
+         family={Petit},
+         familyi={P\bibinitperiod},
+         given={R{\'e}my\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAPRJ1}
+    \strng{fullhash}{HAPRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1111/j.1461-0248.2005.00739.x
+    \endverb
+    \field{number}{5}
+    \field{pages}{461\bibrangedash 467}
+    \field{title}{Conserving biodiversity under climate change: the rear edge
+  matters}
+    \field{volume}{8}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Hannahetal2014FinegrainModeling}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HL}{%
+         family={Hannah},
+         familyi={H\bibinitperiod},
+         given={Lee},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Flint},
+         familyi={F\bibinitperiod},
+         given={Lorraine},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SAD}{%
+         family={Syphard},
+         familyi={S\bibinitperiod},
+         given={Alexandra\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MMA}{%
+         family={Moritz},
+         familyi={M\bibinitperiod},
+         given={Max\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BLB}{%
+         family={Buckley},
+         familyi={B\bibinitperiod},
+         given={Lauren\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MIM}{%
+         family={McCullough},
+         familyi={M\bibinitperiod},
+         given={Ian\bibnamedelima M.},
+         giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HL+1}
+    \strng{fullhash}{HLFLSADMMABLBMIM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1016/j.tree.2014.04.006
+    \endverb
+    \field{number}{7}
+    \field{pages}{390\bibrangedash 397}
+    \field{shorttitle}{Fine-grain modeling of species’ response to climate
+  change}
+    \field{title}{Fine-grain modeling of species’ response to climate change:
+  holdouts, stepping-stones, and microrefugia}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0169534714001001
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{Trends in Ecology \& Evolution}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Jurgens:1995}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JM}{%
+         family={J{\"u}rgens},
+         familyi={J\bibinitperiod},
+         given={Manuela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+    }
+    \strng{namehash}{JM1}
+    \strng{fullhash}{JM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{LaTeX: Fortgeschrittene Anwendungen}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Jurgens:2000}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JM}{%
+         family={J{\"u}rgens},
+         familyi={J\bibinitperiod},
+         given={Manuela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+    }
+    \strng{namehash}{JM1}
+    \strng{fullhash}{JM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{LaTeX: eine Einf{\"u}hrung und ein bisschen mehr}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Kohleretal2014MountainsClimate}{book}{}
+    \name{editor}{3}{}{%
+      {{hash=KT}{%
+         family={Kohler},
+         familyi={K\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wehrli},
+         familyi={W\bibinitperiod},
+         given={André},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jurek},
+         familyi={J\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Centre for Development and Environment, Swiss Agency for Development
+  and Cooperation and Geographica Bernensia}}%
+    }
+    \strng{namehash}{KT+1}
+    \strng{fullhash}{KTWAJM1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pagetotal}{136}
+    \field{series}{Sustainable mountain development series}
+    \field{title}{Mountains and climate change: a global concern}
+    \list{location}{1}{%
+      {{Bern}}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{Kohm:2011}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KM}{%
+         family={Kohm},
+         familyi={K\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JUM}{%
+         family={Jens-Uwe-Morawski},
+         familyi={J\bibinithyphendelim U\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KMJUM1}
+    \strng{fullhash}{KMJUM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{KOMA-Script: Die Anleitung}
+    \field{year}{2011}
+  \endentry
+
+  \entry{KornerSpehn2019HumboldtianView}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KC}{%
+         family={Körner},
+         familyi={K\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Spehn},
+         familyi={S\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KCSE1}
+    \strng{fullhash}{KCSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1126/science.aaz4161
+    \endverb
+    \field{number}{6458}
+    \field{pages}{1061\bibrangedash 1061}
+    \field{title}{A {{Humboldtian}} view of mountains}
+    \verb{url}
+    \verb https://www.sciencemag.org/lookup/doi/10.1126/science.aaz4161
+    \endverb
+    \field{volume}{365}
+    \field{journaltitle}{Science}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Lindneretal2010ClimateChange}{article}{}
+    \name{author}{12}{}{%
+      {{hash=LM}{%
+         family={Lindner},
+         familyi={L\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Maroschek},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Netherer},
+         familyi={N\bibinitperiod},
+         given={Sigrid},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kremer},
+         familyi={K\bibinitperiod},
+         given={Antoine},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Barbati},
+         familyi={B\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GGJ}{%
+         family={Garcia-Gonzalo},
+         familyi={G\bibinithyphendelim G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Seidl},
+         familyi={S\bibinitperiod},
+         given={Rupert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Delzon},
+         familyi={D\bibinitperiod},
+         given={Sylvain},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Corona},
+         familyi={C\bibinitperiod},
+         given={Piermaria},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kolström},
+         familyi={K\bibinitperiod},
+         given={Marja},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LMJ}{%
+         family={Lexer},
+         familyi={L\bibinitperiod},
+         given={Manfred\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Marchetti},
+         familyi={M\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM+1}
+    \strng{fullhash}{LMMMNSKABAGGJSRDSCPKMLMJMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1016/j.foreco.2009.09.023
+    \endverb
+    \field{number}{4}
+    \field{pages}{698\bibrangedash 709}
+    \field{title}{Climate change impacts, adaptive capacity, and vulnerability
+  of {{European}} forest ecosystems}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0378112709006604
+    \endverb
+    \field{volume}{259}
+    \field{journaltitle}{Forest Ecology and Management}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Loetal2010WordCaution}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LYH}{%
+         family={Lo},
+         familyi={L\bibinitperiod},
+         given={Yueh-Hsin},
+         giveni={Y\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=BJA}{%
+         family={Blanco},
+         familyi={B\bibinitperiod},
+         given={Juan\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KJPH}{%
+         family={Kimmins},
+         familyi={K\bibinitperiod},
+         given={J.\bibnamedelima P.\bibnamedelima (Hamish)},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LYH+1}
+    \strng{fullhash}{LYHBJAKJPH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.5558/tfc86312-3
+    \endverb
+    \field{number}{3}
+    \field{pages}{312\bibrangedash 316}
+    \field{title}{A word of caution when planning forest management using
+  projections of tree species range shifts}
+    \verb{url}
+    \verb http://pubs.cif-ifc.org/doi/10.5558/tfc86312-3
+    \endverb
+    \field{volume}{86}
+    \field{journaltitle}{The Forestry Chronicle}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Matiasetal2017ContrastingGrowth}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Matías},
+         familyi={M\bibinitperiod},
+         given={Luis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LJC}{%
+         family={Linares},
+         familyi={L\bibinitperiod},
+         given={Juan\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SMA}{%
+         family={Sánchez-Miranda},
+         familyi={S\bibinithyphendelim M\bibinitperiod},
+         given={Angela},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JAS}{%
+         family={Jump},
+         familyi={J\bibinitperiod},
+         given={Alistair\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+1}
+    \strng{fullhash}{MLLJCSMAJAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1111/gcb.13627
+    \endverb
+    \field{number}{10}
+    \field{pages}{4106\bibrangedash 4116}
+    \field{title}{Contrasting growth forecasts across the geographical range of
+  {{Scots}} pine due to altitudinal and latitudinal differences in climatic
+  sensitivity}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/gcb.13627
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2017}
+  \endentry
+
+  \entry{MeineriHylander2017FinegrainLargedomain}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ME}{%
+         family={Meineri},
+         familyi={M\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hylander},
+         familyi={H\bibinitperiod},
+         given={Kristoffer},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MEHK1}
+    \strng{fullhash}{MEHK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1111/ecog.02494
+    \endverb
+    \field{number}{8}
+    \field{pages}{1003\bibrangedash 1013}
+    \field{title}{Fine-grain, large-domain climate models based on climate
+  station and comprehensive topographic information improve microrefugia
+  detection}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/ecog.02494
+    \endverb
+    \field{volume}{40}
+    \field{journaltitle}{Ecography}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Miede:2011}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=MA}{%
+         family={Miede},
+         familyi={M\bibinitperiod},
+         given={Andr{\'e}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA1}
+    \strng{fullhash}{MA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{A Classic Thesis Style: An Homage to The Elements of
+  Typographic Style}
+    \field{year}{2011}
+  \endentry
+
+  \entry{WEB:Miede:2011}{online}{}
+    \name{author}{1}{}{%
+      {{hash=MA}{%
+         family={Miede},
+         familyi={M\bibinitperiod},
+         given={Andr{\'e}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA1}
+    \strng{fullhash}{MA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{A Classic Thesis Style by Andr{\'e} Miede}
+    \verb{url}
+    \verb http://www.miede.de/index.php?page=classicthesis
+    \endverb
+    \field{year}{2011}
+    \field{urlday}{27}
+    \field{urlmonth}{05}
+    \field{urlyear}{2011}
+  \endentry
+
+  \entry{Oldfatheretal2020RangeEdges}{article}{}
+    \name{author}{5}{}{%
+      {{hash=OMF}{%
+         family={Oldfather},
+         familyi={O\bibinitperiod},
+         given={Meagan\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=KMM}{%
+         family={Kling},
+         familyi={K\bibinitperiod},
+         given={Matthew\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SSN}{%
+         family={Sheth},
+         familyi={S\bibinitperiod},
+         given={Seema\bibnamedelima N.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=ENC}{%
+         family={Emery},
+         familyi={E\bibinitperiod},
+         given={Nancy\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ADD}{%
+         family={Ackerly},
+         familyi={A\bibinitperiod},
+         given={David\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OMF+1}
+    \strng{fullhash}{OMFKMMSSNENCADD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \verb{doi}
+    \verb 10.1111/gcb.14897
+    \endverb
+    \field{number}{3}
+    \field{pages}{1055\bibrangedash 1067}
+    \field{title}{Range edges in heterogeneous landscapes: {{Integrating}}
+  geographic scale and climate complexity into range dynamics}
+    \field{volume}{26}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Payneetal2017OpportunitiesResearch}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PD}{%
+         family={Payne},
+         familyi={P\bibinitperiod},
+         given={Davnah},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SEM}{%
+         family={Spehn},
+         familyi={S\bibinitperiod},
+         given={Eva\bibnamedelima M},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Snethlage},
+         familyi={S\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD+1}
+    \strng{fullhash}{PDSEMSMFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1016/j.cosust.2017.11.001
+    \endverb
+    \field{pages}{40\bibrangedash 47}
+    \field{title}{Opportunities for research on mountain biodiversity under
+  global change}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1877343517301471
+    \endverb
+    \field{volume}{29}
+    \field{langid}{english}
+    \field{journaltitle}{Current Opinion in Environmental Sustainability}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Pirononetal2015GeographicClimatic}{article}{}
+    \name{author}{5}{}{%
+      {{hash=PS}{%
+         family={Pironon},
+         familyi={P\bibinitperiod},
+         given={Samuel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Villellas},
+         familyi={V\bibinitperiod},
+         given={Jesús},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MWF}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DDF}{%
+         family={Doak},
+         familyi={D\bibinitperiod},
+         given={Daniel\bibnamedelima F.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=GMB}{%
+         family={García},
+         familyi={G\bibinitperiod},
+         given={María\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PS+1}
+    \strng{fullhash}{PSVJMWFDDFGMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1111/geb.12263
+    \endverb
+    \field{number}{6}
+    \field{pages}{611\bibrangedash 620}
+    \field{shorttitle}{Do geographic, climatic or historical ranges
+  differentiate the performance of central versus peripheral populations?}
+    \field{title}{Do geographic, climatic or historical ranges differentiate
+  the performance of central versus peripheral populations?: {{The}}
+  ‘centre-periphery hypothesis’: new perspectives}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/geb.12263
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Potteretal2013MicroclimaticChallenges}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PKA}{%
+         family={Potter},
+         familyi={P\bibinitperiod},
+         given={Kristen\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AWH}{%
+         family={Arthur\bibnamedelima Woods},
+         familyi={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Pincebourde},
+         familyi={P\bibinitperiod},
+         given={Sylvain},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKA+1}
+    \strng{fullhash}{PKAAWHPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1111/gcb.12257
+    \endverb
+    \field{number}{10}
+    \field{pages}{2932\bibrangedash 2939}
+    \field{title}{Microclimatic challenges in global change biology}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/gcb.12257
+    \endverb
+    \field{volume}{19}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{PerezLuqueetal2020LanduseLegacies}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PLAJ}{%
+         family={Pérez-Luque},
+         familyi={P\bibinithyphendelim L\bibinitperiod},
+         given={A.\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GIG}{%
+         family={Gea-Izquierdo},
+         familyi={G\bibinithyphendelim I\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zamora},
+         familyi={Z\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PLAJ+1}
+    \strng{fullhash}{PLAJGIGZR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1007/s10021-020-00547-y
+    \endverb
+    \field{shorttitle}{Land-use legacies and climate change as a double
+  challenge to oak forest resilience}
+    \field{title}{Land-use legacies and climate change as a double challenge to
+  oak forest resilience: mismatches of geographical and ecological rear edges}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10021-020-00547-y
+    \endverb
+    \field{journaltitle}{Ecosystems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Rehmetal2015LosingYour}{article}{}
+    \name{author}{4}{}{%
+      {{hash=REM}{%
+         family={Rehm},
+         familyi={R\bibinitperiod},
+         given={Evan\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={Olivas},
+         familyi={O\bibinitperiod},
+         given={Paulo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stroud},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FKJ}{%
+         family={Feeley},
+         familyi={F\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{REM+1}
+    \strng{fullhash}{REMOPSJFKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1002/ece3.1645
+    \endverb
+    \field{number}{19}
+    \field{pages}{4315\bibrangedash 4326}
+    \field{title}{Losing your edge: climate change and the conservation value
+  of range-edge populations}
+    \field{volume}{5}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2015}
+  \endentry
+
+  \entry{RuizBenitoetal2013PatternsDrivers}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RBP}{%
+         family={Ruiz-Benito},
+         familyi={R\bibinithyphendelim B\bibinitperiod},
+         given={Paloma},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LER}{%
+         family={Lines},
+         familyi={L\bibinitperiod},
+         given={Emily\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GAL}{%
+         family={Gómez-Aparicio},
+         familyi={G\bibinithyphendelim A\bibinitperiod},
+         given={Lorena},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZMA}{%
+         family={Zavala},
+         familyi={Z\bibinitperiod},
+         given={Miguel\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CDA}{%
+         family={Coomes},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RBP+1}
+    \strng{fullhash}{RBPLERGALZMACDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1371/journal.pone.0056843
+    \endverb
+    \field{number}{2}
+    \field{pages}{e56843}
+    \field{title}{Patterns and drivers of tree mortality in iberian forests:
+  climatic effects are modified by competition}
+    \verb{url}
+    \verb https://doi.org/10.1371/journal.pone.0056843
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{PLoS ONE}
+    \field{year}{2013}
+  \endentry
+
+  \entry{RuizLabourdetteetal2013ChangesTree}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RLD}{%
+         family={Ruiz-Labourdette},
+         familyi={R\bibinithyphendelim L\bibinitperiod},
+         given={Diego},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SMF}{%
+         family={Schmitz},
+         familyi={S\bibinitperiod},
+         given={Maŕıa\bibnamedelima Fe},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=PFD}{%
+         family={Pineda},
+         familyi={P\bibinitperiod},
+         given={Francisco\bibnamedelima D.},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RLD+1}
+    \strng{fullhash}{RLDSMFPFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1016/j.ecolind.2012.06.021
+    \endverb
+    \field{pages}{310\bibrangedash 323}
+    \field{title}{Changes in tree species composition in {{Mediterranean}}
+  mountains under climate change: {{Indicators}} for conservation planning}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.ecolind.2012.06.021
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{Ecological Indicators}
+    \field{year}{2013}
+  \endentry
+
+  \entry{SpehnKorner2009MountainLaboratory}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=SE}{%
+         family={Spehn},
+         familyi={S\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Korner},
+         familyi={K\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=SE}{%
+         family={Spehn},
+         familyi={S\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Korner},
+         familyi={K\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{CRC Press}}%
+    }
+    \strng{namehash}{SEKC1}
+    \strng{fullhash}{SEKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Data {{Mining}} for {{Global Trends}} in {{Mountain
+  Biodiversity}}}
+    \verb{doi}
+    \verb 10.1201/9781420083705.ch16
+    \endverb
+    \field{pages}{165\bibrangedash 169}
+    \field{title}{The “{{Mountain Laboratory}}”of {{Nature}}—{{A Largely
+  Unexplored Mine}} of {{Information Synthesis}} of the {{Book}}}
+    \verb{url}
+    \verb http://www.crcnetbase.com/doi/10.1201/9781420083705.ch16
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{Titoetal2020MountainEcosystems}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TR}{%
+         family={Tito},
+         familyi={T\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VHL}{%
+         family={Vasconcelos},
+         familyi={V\bibinitperiod},
+         given={Heraldo\bibnamedelima L.},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=FKJ}{%
+         family={Feeley},
+         familyi={F\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TR+1}
+    \strng{fullhash}{TRVHLFKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.3389/ffgc.2020.00038
+    \endverb
+    \field{pages}{38}
+    \field{title}{Mountain {{Ecosystems}} as {{Natural Laboratories}} for
+  {{Climate Change Experiments}}}
+    \verb{url}
+    \verb https://www.frontiersin.org/article/10.3389/ffgc.2020.00038/full
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Frontiers in Forests and Global Change}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Urbietaetal2011MediterraneanPine}{article}{}
+    \name{author}{4}{}{%
+      {{hash=UIR}{%
+         family={Urbieta},
+         familyi={U\bibinitperiod},
+         given={Itziar\bibnamedelima R.},
+         giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GLV}{%
+         family={Garćıa},
+         familyi={G\bibinitperiod},
+         given={Lúıs\bibnamedelima V.},
+         giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=ZMA}{%
+         family={Zavala},
+         familyi={Z\bibinitperiod},
+         given={Miguel\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Marañón},
+         familyi={M\bibinitperiod},
+         given={Teodoro},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UIR+1}
+    \strng{fullhash}{UIRGLVZMAMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \verb{doi}
+    \verb 10.1111/j.1654-1103.2010.01222.x
+    \endverb
+    \field{number}{1}
+    \field{pages}{18\bibrangedash 31}
+    \field{title}{Mediterranean pine and oak distribution in southern
+  {{Spain}}: {{Is}} there a mismatch between regeneration and adult
+  distribution?}
+    \field{volume}{22}
+    \field{journaltitle}{Journal of Vegetation Science}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Zamoraetal2017GlobalChange}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZR}{%
+         family={Zamora},
+         familyi={Z\bibinitperiod},
+         given={Regino},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PLAJ}{%
+         family={Pérez-Luque},
+         familyi={P\bibinithyphendelim L\bibinitperiod},
+         given={Antonio\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BFJ}{%
+         family={Bonet},
+         familyi={B\bibinitperiod},
+         given={Francisco\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BAJM}{%
+         family={Barea-Azcón},
+         familyi={B\bibinithyphendelim A\bibinitperiod},
+         given={José\bibnamedelima Miguel},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Aspizua},
+         familyi={A\bibinitperiod},
+         given={Rut},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SGFJ}{%
+         family={Sánchez-Gutiérrez},
+         familyi={S\bibinithyphendelim G\bibinitperiod},
+         given={Francisco\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CMFJ}{%
+         family={Cano-Manuel},
+         familyi={C\bibinithyphendelim M\bibinitperiod},
+         given={Francisco\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RLB}{%
+         family={Ramos-Losada},
+         familyi={R\bibinithyphendelim L\bibinitperiod},
+         given={Blanca},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HCI}{%
+         family={Henares-Civantos},
+         familyi={H\bibinithyphendelim C\bibinitperiod},
+         given={Ignacio},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZR+1}
+    \strng{fullhash}{ZRPLAJBFJBAJMARSGFJCMFJRLBHCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1002/bes2.1308
+    \endverb
+    \field{number}{2}
+    \field{pages}{157\bibrangedash 164}
+    \field{title}{Global {{Change Impact}} in the {{Sierra Nevada Long}}-{{Term
+  Ecological Research Site}} ({{Southern Spain}})}
+    \field{volume}{98}
+    \field{journaltitle}{The Bulletin of the Ecological Society of America}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput
