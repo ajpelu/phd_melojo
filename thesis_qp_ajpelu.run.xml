@@ -44,7 +44,8 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>thesis_qp_ajpelu.bcf</file>
+      <file>thesis_qp_ajpelu.aux</file>
+      <file>thesis_qp_ajpelu-blx.bib</file>
     </provides>
     <requires type="dynamic">
       <file>thesis_qp_ajpelu.bbl</file>
@@ -52,24 +53,26 @@
     <requires type="static">
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
+      <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
       <file>standard.bbx</file>
-      <file>alphabetic.bbx</file>
-      <file>alphabetic.cbx</file>
+      <file>authoryear.bbx</file>
+      <file>authoryear.cbx</file>
       <file>biblatex.cfg</file>
       <file>spanish.lbx</file>
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
-    <generic>biber</generic>
+  <external package="biblatex" priority="5" active="0">
+    <generic>bibtex</generic>
     <cmdline>
-      <binary>biber</binary>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
       <infile>thesis_qp_ajpelu</infile>
     </cmdline>
     <input>
-      <file>thesis_qp_ajpelu.bcf</file>
+      <file>thesis_qp_ajpelu.aux</file>
     </input>
     <output>
       <file>thesis_qp_ajpelu.bbl</file>
@@ -78,10 +81,14 @@
       <file>thesis_qp_ajpelu.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>thesis_qp_ajpelu.bcf</file>
+      <file>thesis_qp_ajpelu.aux</file>
+      <file>thesis_qp_ajpelu-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>bib-refs.bib</file>
+      <file>referencias.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
     </requires>
   </external>
 </requests>

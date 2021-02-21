@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis_qp_ajpelu.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 12000 items from 5000.
+Database file #1: thesis_qp_ajpelu-blx.bib
+Database file #2: referencias.bib
+Biblatex version: 3.16
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 50 entries,
+            6393 wiz_defined-function locations,
+            1576 strings with 24812 characters,
+and the built_in function-call counts, 548534 in all, are:
+= -- 43594
+> -- 8596
+< -- 2212
++ -- 14288
+- -- 4215
+* -- 47310
+:= -- 63986
+add.period$ -- 0
+call.type$ -- 50
+change.case$ -- 902
+chr.to.int$ -- 94
+cite$ -- 98
+duplicate$ -- 50242
+empty$ -- 47347
+format.name$ -- 5210
+if$ -- 110755
+int.to.chr$ -- 0
+int.to.str$ -- 131
+missing$ -- 0
+newline$ -- 2593
+num.names$ -- 2461
+pop$ -- 19437
+preamble$ -- 1
+purify$ -- 1387
+quote$ -- 0
+skip$ -- 11020
+stack$ -- 0
+substring$ -- 87567
+swap$ -- 10820
+text.length$ -- 2072
+text.prefix$ -- 55
+top$ -- 1
+type$ -- 1684
+warning$ -- 0
+while$ -- 7862
+width$ -- 0
+write$ -- 2544
